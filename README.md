@@ -4,9 +4,6 @@
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
 ## About
 
 Home Assistant allows anyone to create add-on repositories to share their
@@ -95,12 +92,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-unifi]: https://github.com/Wolvverine/addon-unifi/tree/v2.3.1.1
-[addon-doc-unifi]: https://github.com/Wolvverine/addon-unifi/blob/v2.3.1.1/README.md
+[addon-unifi]: https://github.com/Wolvverine/addon-unifi/tree/v2.3.2
+[addon-doc-unifi]: https://github.com/Wolvverine/addon-unifi/blob/v2.3.2/README.md
 [unifi-issue]: https://github.com/Wolvverine/addon-unifi/issues
-[unifi-version-shield]: https://img.shields.io/badge/version-v2.3.1-blue.svg
+[unifi-version-shield]: https://img.shields.io/badge/version-v2.3.2-blue.svg
 [unifi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [unifi-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [unifi-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+
+[license-shield]: https://img.shields.io/github/license/hassio-addons/repository-edge.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
+
